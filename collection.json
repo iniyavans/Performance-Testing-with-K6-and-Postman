@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "88e22273-3ec7-4049-9b5e-dc20a2a69a07",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27243057"
+	},
+	"item": [
+		{
+			"name": "Get User Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseurl}}/api/users?page={{value}}",
+					"host": [
+						"{{baseurl}}"
+					],
+					"path": [
+						"api",
+						"users"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "{{value}}"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
