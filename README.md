@@ -1,4 +1,3 @@
-```sh
 # Integarate Postman and Grafana K6.io
 Covert the Postman collection to the K6 java script code.
 
