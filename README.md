@@ -132,7 +132,3 @@ __http_req_failed:__ The number of failed or unsuccessful HTTP requests.
 
 * [K6.io](https://k6.io/)
 * [k6.io load testing with postman collections blog](https://k6.io/blog/load-testing-with-postman-collections/)
-
-```text
-
-```
