@@ -1,4 +1,4 @@
-# Perfomance Testing with Postman and Grafana K6.io
+# Performance Testing with Postman and Grafana K6.io
 Covert the Postman collection to the K6 java script code.
 
 The feature will convert the JSON files of the Postman collection into k6 script. Then we will launch the K6 scripting files to get the result of the performance test.
